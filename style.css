@@ -1,7 +1,7 @@
 .calc-container{
-    width: 500px;
-    height: 1000px;
-    background-color: #2F4F4F;
+    width: 350px;
+    height: 700px;
+    background-color: rgba(0, 0, 0, 0.815);
     position: absolute;
     top: 50%;
     left: 50%;
