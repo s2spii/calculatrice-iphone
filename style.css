@@ -6,6 +6,8 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    border-radius: 40px;
+    border: 5px darkgrey;
 }
 
 .screen{
